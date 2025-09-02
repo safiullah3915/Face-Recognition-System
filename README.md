@@ -1,7 +1,3 @@
-Great! I’ve explored your repository **Face-Recognition-System** and identified its key components and intent. Here's a polished, concise README draft for your project:
-
----
-
 # Face-Recognition-System
 
 A streamlined Python-based facial recognition application that leverages a pretrained face-embedding model for efficient identification.
